@@ -1,0 +1,19 @@
+#tigreslogo {
+  height:300px;
+  display:block;
+  margin:auto;
+}
+#titulo {
+  text-align:center;
+  font-size:28px;
+  font-weight:bold;
+  color:#005dab;
+  padding-top:10px;
+}
+.subtitles h1 {
+  font-size: 24px;
+  color:#005dab;
+  text-align:center;
+  font-weight:bold;
+  text-decoration:underline;
+}
